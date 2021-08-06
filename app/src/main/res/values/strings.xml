@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="update">Update</string>
+    <string name="remove">Remove</string>
+    <string name="title">Title</string>
+    <string name="write_your_text">Write your text…</string>
+    <string name="save">Save</string>
+    <string name="news_not_found">News not found</string>
+    <string name="update_news">Update news</string>
+    <string name="create_news">Create news</string>
+    <string name="error_message_save">An error occurred while saving the news</string>
+    <string name="error_message_load">An error occurred while loading the news</string>
+    <string name="error_message_remove">An error occurred while removing the news</string>
+</resources>
